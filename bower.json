@@ -1,0 +1,24 @@
+{
+  "name": "elastic",
+  "main": "index.js",
+  "version": "0.0.1",
+  "authors": [
+    "KerBiOS <kerbios@gmail.com>"
+  ],
+  "description": "p2p, simpleWebRTC",
+  "license": "MIT",
+  "homepage": "kerbios.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "zeroclipboard": "~2.2.0",
+    "bootstrap": "~3.3.4"
+  }
+}
